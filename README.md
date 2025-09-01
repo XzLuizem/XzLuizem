@@ -3,16 +3,16 @@
 ![Header](./img/Edu-xzluizem.png)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Carrera-Ing.%20de%20Sistemas-blue?style=for-the-badge" alt="Ingeniería de Sistemas"/>
-  <img src="https://img.shields.io/badge/Universidad-UAGRM-green?style=for-the-badge" alt="UAGRM"/>
-  <img src="https://img.shields.io/badge/Carrera-Electrónica-blue?style=for-the-badge" alt="Electrónica"/>
-  <img src="https://img.shields.io/badge/Instituto-ITSC-purple?style=for-the-badge" alt="ITSC"/>
-  <img src="https://img.shields.io/badge/GitHub-XzLuizem-lightgrey?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://www.uagrm.edu.bo/carreras/ficct-cis"><img src="https://img.shields.io/badge/Carrera-Ing.%20de%20Sistemas-blue?style=for-the-badge" alt="Ingeniería de Sistemas"/></a>
+  <a href="https://www.uagrm.edu.bo/"><img src="https://img.shields.io/badge/Universidad-UAGRM-green?style=for-the-badge" alt="UAGRM"/></a>
+  <a href="https://www.itsc.edu.bo/index.php/2018-12-11-15-52-27/2018-12-11-19-01-30.html"><img src="https://img.shields.io/badge/Carrera-Electrónica-blue?style=for-the-badge" alt="Electrónica"/></a>
+  <a href="https://www.itsc.edu.bo/"><img src="https://img.shields.io/badge/Instituto-ITSC-purple?style=for-the-badge" alt="ITSC"/></a>
+  <a href="https://github.com/XzLuizem"><img src="https://img.shields.io/badge/GitHub-XzLuizem-lightgrey?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </div>
 
 ¡Bienvenido a mi rincón en GitHub!
 
-Soy un estudiante de **Ingeniería de Sistemas** en la prestigiosa *Universidad Autónoma Gabriel René Moreno (UAGRM)* de Santa Cruz, Bolivia y de **Electrónica** en el *Instituto Tecnológico Santa Cruz (ITSC)*.
+Soy un estudiante de **Ingeniería de Sistemas** en la *Universidad Autónoma Gabriel René Moreno (UAGRM)* de Santa Cruz, Bolivia y de **Electrónica** en el *Instituto Tecnológico Santa Cruz (ITSC)*.
 
 ## 📂 Sobre este Repositorio
 
