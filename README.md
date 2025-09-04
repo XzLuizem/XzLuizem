@@ -8,6 +8,10 @@
   <a href="https://www.itsc.edu.bo/index.php/2018-12-11-15-52-27/2018-12-11-19-01-30.html"><img src="https://img.shields.io/badge/Carrera-Electrónica-blue?style=for-the-badge" alt="Electrónica"/></a>
   <a href="https://www.itsc.edu.bo/"><img src="https://img.shields.io/badge/Instituto-ITSC-purple?style=for-the-badge" alt="ITSC"/></a>
   <a href="https://github.com/XzLuizem"><img src="https://img.shields.io/badge/GitHub-XzLuizem-lightgrey?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <br><br>
+  <a href="https://github.com/XzLuizem">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://github.com/XzLuizem" alt="QR de mi Perfil de GitHub"/>
+  </a>
 </div>
 
 ¡Bienvenido a mi rincón en GitHub!
